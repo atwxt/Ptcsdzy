@@ -1,0 +1,11 @@
+release/difficulty_choose.o
+release/hero.o
+release/main.o
+release/magic_tower.o
+release/map.o
+release/monster.o
+release/monsterinformation.o
+release/qrc_magic_tower_resource.o
+release/qrc_qmake_qmake_qm_files.o
+release/moc_difficulty_choose.o
+release/moc_magic_tower.o

@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>magic_photos/0.png</file>
+        <file>magic_photos/1.png</file>
+        <file>magic_photos/2.png</file>
+        <file>magic_photos/3.png</file>
+        <file>magic_photos/4.png</file>
+        <file>magic_photos/5.png</file>
+        <file>magic_photos/6.png</file>
+        <file>magic_photos/7.png</file>
+        <file>magic_photos/8.png</file>
+        <file>magic_photos/9.png</file>
+        <file>magic_photos/10.png</file>
+        <file>magic_photos/11.png</file>
+        <file>magic_photos/12.png</file>
+        <file>magic_photos/13.png</file>
+        <file>magic_photos/14.png</file>
+        <file>magic_photos/15.png</file>
+        <file>magic_photos/16.png</file>
+        <file>magic_photos/17.png</file>
+        <file>magic_photos/18.png</file>
+        <file>magic_photos/19.png</file>
+        <file>magic_photos/20.png</file>
+        <file>magic_photos/21.png</file>
+        <file>magic_photos/start.png</file>
+    </qresource>
+</RCC>

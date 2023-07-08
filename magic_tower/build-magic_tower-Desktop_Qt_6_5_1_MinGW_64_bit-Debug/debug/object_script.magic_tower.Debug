@@ -1,0 +1,11 @@
+debug/difficulty_choose.o
+debug/hero.o
+debug/main.o
+debug/magic_tower.o
+debug/map.o
+debug/monster.o
+debug/monsterinformation.o
+debug/qrc_magic_tower_resource.o
+debug/qrc_qmake_qmake_qm_files.o
+debug/moc_difficulty_choose.o
+debug/moc_magic_tower.o
